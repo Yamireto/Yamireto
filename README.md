@@ -1,6 +1,4 @@
-# Clase 1 Ejercicio 1
-
-## Yamilet Suárez
+# Yamilet Suárez
 Soy mercadóloga y amante de los bigolitos (beagles), especialmente mi Canelito. Estoy estudiando en el Bookcamp Undefined Academy, buscando aprender más para buscar mejores oportunidades para darle una mejor vida a mi bigolito.
 
 Mis redes sociales son
